@@ -335,6 +335,14 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
         </select>
       </label>
 
+      <label style="font-size: 13px; color: var(--text-muted); display: flex; align-items: center; gap: 6px;">
+        Sort Order:
+        <select id="sortOrderSelect" class="form-control" style="width: auto; padding: 6px 10px;" onchange="applyFilters()">
+          <option value="funnel">🚀 Campaign Release Order (Post First)</option>
+          <option value="virality">★ Pure Virality Score (Highest First)</option>
+        </select>
+      </label>
+
       <!-- Production Export Buttons -->
       <div style="margin-left: auto; display: flex; gap: 8px;">
         <button class="btn btn-secondary" onclick="exportData('csv')">
@@ -451,6 +459,14 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 
         return true;
       });
+
+      // Sort order
+      const sortOrder = document.getElementById('sortOrderSelect') ? document.getElementById('sortOrderSelect').value : 'funnel';
+      if (sortOrder === 'virality') {
+        filtered.sort((a, b) => b.virality_score - a.virality_score);
+      } else {
+        filtered.sort((a, b) => a.rank - b.rank);
+      }
 
       // Slice Top N if selected
       if (currentTopN !== 'all' && typeof currentTopN === 'number') {
