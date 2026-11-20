@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 40,
+    "promo_id": "EP19_0044.30_0125.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      19
+    ],
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "00:44.30",
+        "end_time": "01:25.50",
+        "duration_seconds": 41.2
+      }
+    ],
+    "total_duration_sec": 41.2,
+    "hook_summary": "Opens on instant high emotion: INFORMANT: \"Your Grace.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: INFORMANT: \"And when we have the proof?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 4.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 41,
+    "promo_id": "EP19_0116.50_0159.63",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      19
+    ],
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "01:16.50",
+        "end_time": "01:59.63",
+        "duration_seconds": 43.13
+      }
+    ],
+    "total_duration_sec": 43.13,
+    "hook_summary": "Opens on instant high emotion: ALEXANDER: \"My mother is a prisoner in her own house.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Ju",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 5.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 50,
+    "promo_id": "EP19_0101.60_0137.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "Underdog Defiance / High-Stakes Clash",
+    "header_hook": "NO MORE HIDING",
+    "episodes_involved": [
+      19
+    ],
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "01:01.60",
+        "end_time": "01:37.80",
+        "duration_seconds": 36.2
+      }
+    ],
+    "total_duration_sec": 36.2,
+    "hook_summary": "Opens on instant high emotion: INFORMANT: \"And Lady Catherine, she behaves as though she is already the future duchess.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.3,
+    "hook_score": 4.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

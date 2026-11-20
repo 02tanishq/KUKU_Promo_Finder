@@ -1,0 +1,21 @@
+# Kuku AI Promo Finding Engine Requirements
+# ==========================================
+# NOTE: The Core Pipeline (`run_batch.py`) and the Web Dashboard (`promo_engine/web_dashboard.py`) 
+# run on 100% Python Standard Library (Python 3.9+) with ZERO external pip dependencies!
+#
+# If you want to run the optional Streamlit interface or use optional provider SDKs,
+# you can install this file:
+#   pip install -r requirements.txt
+
+# Streamlit Web Prototype & DataFrames
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Optional HTTP / LLM SDKs (Engine uses zero-dependency urllib by default)
+requests>=2.31.0
+groq>=0.11.0
+openai>=1.12.0
+google-generativeai>=0.4.0

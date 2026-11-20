@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 21,
+    "promo_id": "EP13_0014.40_0047.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      13
+    ],
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "00:14.40",
+        "end_time": "00:47.00",
+        "duration_seconds": 32.6
+      }
+    ],
+    "total_duration_sec": 32.6,
+    "hook_summary": "Opens on instant high emotion: ALEXANDER: \"They will tear your hands apart.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.2,
+    "hook_score": 6.5,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 22,
+    "promo_id": "EP13_0041.80_0114.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      13
+    ],
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "00:41.80",
+        "end_time": "01:14.00",
+        "duration_seconds": 32.2
+      }
+    ],
+    "total_duration_sec": 32.2,
+    "hook_summary": "Opens on instant high emotion: GERALD: \"Perhaps the beggar's wife will finally learn what her new life is worth.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Close-up of Alexander struggling in agony, tears forming in his eyes.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.2,
+    "hook_score": 6.5,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 38,
+    "promo_id": "EP13_0102.20_0146.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      13
+    ],
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "01:02.20",
+        "end_time": "01:46.50",
+        "duration_seconds": 44.3
+      }
+    ],
+    "total_duration_sec": 44.3,
+    "hook_summary": "Opens on instant high emotion: GERALD: \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny b",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 5.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  }
+]

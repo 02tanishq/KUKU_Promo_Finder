@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 96,
+    "promo_id": "EP32_0043.40_0119.40",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      32
+    ],
+    "segments": [
+      {
+        "episode": 32,
+        "start_time": "00:43.40",
+        "end_time": "01:19.40",
+        "duration_seconds": 36.0
+      }
+    ],
+    "total_duration_sec": 36.0,
+    "hook_summary": "Opens on instant high emotion: CATHERINE: \"You still think you are better?!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"Your soldier?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 97,
+    "promo_id": "EP32_0124.20_0159.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      32
+    ],
+    "segments": [
+      {
+        "episode": 32,
+        "start_time": "01:24.20",
+        "end_time": "01:59.50",
+        "duration_seconds": 35.3
+      }
+    ],
+    "total_duration_sec": 35.3,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"Then I love a nobody.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: JULIANA: \"...but you have never learned how to make anyone love you.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 111,
+    "promo_id": "EP32_0147.20_0226.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      32
+    ],
+    "segments": [
+      {
+        "episode": 32,
+        "start_time": "01:47.20",
+        "end_time": "02:26.50",
+        "duration_seconds": 39.3
+      }
+    ],
+    "total_duration_sec": 39.3,
+    "hook_summary": "Opens on instant high emotion: CATHERINE: \"And what is wrong with that?!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: JULIANA: \"...but you will never have the courage to earn what you demand from everyone else.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

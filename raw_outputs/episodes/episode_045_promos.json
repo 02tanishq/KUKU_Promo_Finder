@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 73,
+    "promo_id": "EP45_0022.90_0058.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      45
+    ],
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "00:22.90",
+        "end_time": "00:58.00",
+        "duration_seconds": 35.1
+      }
+    ],
+    "total_duration_sec": 35.1,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"You're the Duke?\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER: \"You poisoned my mother. You tortured my wife.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.2,
+    "hook_score": 6.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 104,
+    "promo_id": "EP45_0054.00_0126.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      45
+    ],
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "00:54.00",
+        "end_time": "01:26.50",
+        "duration_seconds": 32.5
+      }
+    ],
+    "total_duration_sec": 32.5,
+    "hook_summary": "Opens on instant high emotion: ALEXANDER: \"You poisoned my mother. You tortured my wife.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 117,
+    "promo_id": "EP45_0114.80_0145.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      45
+    ],
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "01:14.80",
+        "end_time": "01:45.50",
+        "duration_seconds": 30.7
+      }
+    ],
+    "total_duration_sec": 30.7,
+    "hook_summary": "Opens on instant high emotion: ALEXANDER: \"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: HIGH PRIEST: \"These vows were never entered into the Royal Matrimonial Register.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.5,
+    "hook_score": 5.5,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  }
+]

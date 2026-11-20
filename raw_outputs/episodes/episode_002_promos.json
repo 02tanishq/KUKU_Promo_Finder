@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 5,
+    "promo_id": "EP02_0000.00_0037.10",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 1: Top-of-Funnel (Post First - Cold UA)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:00.00",
+        "end_time": "00:37.10",
+        "duration_seconds": 37.1
+      }
+    ],
+    "total_duration_sec": 37.1,
+    "hook_summary": "Opens on instant high emotion: THE FORMER GROOM: \"I cannot marry you, Juliana.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: LADY JULIANA: \"Surely you will not let him humiliate me like this?\"",
+    "why_it_works": "Primal rage-bait and public wedding humiliation that requires 0 seconds of backstory for cold US viewers.",
+    "virality_score": 7.7,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 9.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 10,
+    "promo_id": "EP02_0037.50_0116.40",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 1: Top-of-Funnel (Post First - Cold UA)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:37.50",
+        "end_time": "01:16.40",
+        "duration_seconds": 38.9
+      }
+    ],
+    "total_duration_sec": 38.9,
+    "hook_summary": "Opens on instant high emotion: BLOND NOBLEMAN: \"Gerald has made his choice. Accept it, Juliana.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: LADY JULIANA: \"Dignity?\"",
+    "why_it_works": "Primal rage-bait and public wedding humiliation that requires 0 seconds of backstory for cold US viewers.",
+    "virality_score": 7.2,
+    "hook_score": 3.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 9.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 13,
+    "promo_id": "EP02_0012.00_0037.10",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 1: Top-of-Funnel (Post First - Cold UA)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:12.00",
+        "end_time": "00:37.10",
+        "duration_seconds": 25.1
+      }
+    ],
+    "total_duration_sec": 25.1,
+    "hook_summary": "Opens on instant high emotion: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: LADY JULIANA: \"Surely you will not let him humiliate me like this?\"",
+    "why_it_works": "Primal rage-bait and public wedding humiliation that requires 0 seconds of backstory for cold US viewers.",
+    "virality_score": 7.0,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 9.5,
+    "evaluator_source": "heuristic_engine"
+  }
+]

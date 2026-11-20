@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 39,
+    "promo_id": "EP14_0010.50_0047.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      14
+    ],
+    "segments": [
+      {
+        "episode": 14,
+        "start_time": "00:10.50",
+        "end_time": "00:47.00",
+        "duration_seconds": 36.5
+      }
+    ],
+    "total_duration_sec": 36.5,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"Now release my husband.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the ",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 5.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 46,
+    "promo_id": "EP14_0023.10_0103.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      14
+    ],
+    "segments": [
+      {
+        "episode": 14,
+        "start_time": "00:23.10",
+        "end_time": "01:03.50",
+        "duration_seconds": 40.4
+      }
+    ],
+    "total_duration_sec": 40.4,
+    "hook_summary": "Opens on instant high emotion: ALEXANDER: \"What have they done to you?\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Close-up on Juliana smiling faintly through her tears, shaking her head.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.5,
+    "hook_score": 4.5,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 56,
+    "promo_id": "EP14_0000.50_0038.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      14
+    ],
+    "segments": [
+      {
+        "episode": 14,
+        "start_time": "00:00.50",
+        "end_time": "00:38.50",
+        "duration_seconds": 38.0
+      }
+    ],
+    "total_duration_sec": 38.0,
+    "hook_summary": "Opens on instant high emotion: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring rest",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER: \"You should never have had to bleed for me.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.1,
+    "hook_score": 3.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "heuristic_engine"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 84,
+    "promo_id": "EP43_0016.20_0050.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      43
+    ],
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "00:16.20",
+        "end_time": "00:50.80",
+        "duration_seconds": 34.6
+      }
+    ],
+    "total_duration_sec": 34.6,
+    "hook_summary": "Opens on instant high emotion: BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.0,
+    "hook_score": 6.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 101,
+    "promo_id": "EP43_0111.40_0146.20",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      43
+    ],
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "01:11.40",
+        "end_time": "01:46.20",
+        "duration_seconds": 34.8
+      }
+    ],
+    "total_duration_sec": 34.8,
+    "hook_summary": "Opens on instant high emotion: BLOND NOBLEMAN: \"I didn't!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"My Lord?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 116,
+    "promo_id": "EP43_0133.40_0154.96",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      43
+    ],
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "01:33.40",
+        "end_time": "01:54.96",
+        "duration_seconds": 21.56
+      }
+    ],
+    "total_duration_sec": 21.56,
+    "hook_summary": "Opens on instant high emotion: BLOND NOBLEMAN: \"I was told he was dead!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holdi",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.5,
+    "hook_score": 6.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  }
+]

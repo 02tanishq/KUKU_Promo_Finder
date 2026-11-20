@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 80,
+    "promo_id": "EP31_0043.20_0120.20",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      31
+    ],
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "00:43.20",
+        "end_time": "01:20.20",
+        "duration_seconds": 37.0
+      }
+    ],
+    "total_duration_sec": 37.0,
+    "hook_summary": "Opens on instant high emotion: CATHERINE: \"No. You became a disgrace when Gerald left you standing at the altar.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"You call that marriage?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.0,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 94,
+    "promo_id": "EP31_0002.80_0050.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      31
+    ],
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "00:02.80",
+        "end_time": "00:50.80",
+        "duration_seconds": 48.0
+      }
+    ],
+    "total_duration_sec": 48.0,
+    "hook_summary": "Opens on instant high emotion: Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in her torn apron and l",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"Do you remember?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 95,
+    "promo_id": "EP31_0158.40_0240.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      31
+    ],
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "01:58.40",
+        "end_time": "02:40.00",
+        "duration_seconds": 41.6
+      }
+    ],
+    "total_duration_sec": 41.6,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"Then why are you so desperate to make me kneel?\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

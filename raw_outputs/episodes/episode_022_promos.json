@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 26,
+    "promo_id": "EP22_0119.00_0155.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "THE WEST WING",
+    "episodes_involved": [
+      22
+    ],
+    "segments": [
+      {
+        "episode": 22,
+        "start_time": "01:19.00",
+        "end_time": "01:55.50",
+        "duration_seconds": 36.5
+      }
+    ],
+    "total_duration_sec": 36.5,
+    "hook_summary": "Prudence whispers \u201cThat was close,\u201d hinting danger, then Juliana asks for the hidden West Wing, sparking curiosity.",
+    "cliffhanger_summary": "Juliana reaches for the ornate brass\u2011glass door, cutting as she turns the knob, leaving the secret behind it unknown.",
+    "why_it_works": "A whispered close call followed by a mysterious hidden wing teases intrigue.",
+    "virality_score": 6.8,
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "llm_groq_openai/gpt-oss-120b"
+  },
+  {
+    "rank": 74,
+    "promo_id": "EP22_0132.00_0155.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      22
+    ],
+    "segments": [
+      {
+        "episode": 22,
+        "start_time": "01:32.00",
+        "end_time": "01:55.50",
+        "duration_seconds": 23.5
+      }
+    ],
+    "total_duration_sec": 23.5,
+    "hook_summary": "Opens on instant high emotion: Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gal",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: LADY JULIANA: \"Your Grace?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.0,
+    "hook_score": 3.5,
+    "cliffhanger_score": 6.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 107,
+    "promo_id": "EP22_0014.20_0058.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      22
+    ],
+    "segments": [
+      {
+        "episode": 22,
+        "start_time": "00:14.20",
+        "end_time": "00:58.00",
+        "duration_seconds": 43.8
+      }
+    ],
+    "total_duration_sec": 43.8,
+    "hook_summary": "Opens on instant high emotion: PRUDENCE: \"This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: HOUSEKEEPER: \"Can you scrub stone?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 4.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 79,
+    "promo_id": "EP29_0056.70_0133.70",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      29
+    ],
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:56.70",
+        "end_time": "01:33.70",
+        "duration_seconds": 37.0
+      }
+    ],
+    "total_duration_sec": 37.0,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"You are doing this because I saved the Duchess!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her.",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.0,
+    "hook_score": 6.0,
+    "cliffhanger_score": 2.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 92,
+    "promo_id": "EP29_0024.80_0114.30",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      29
+    ],
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:24.80",
+        "end_time": "01:14.30",
+        "duration_seconds": 49.5
+      }
+    ],
+    "total_duration_sec": 49.5,
+    "hook_summary": "Opens on instant high emotion: CATHERINE: \"You still call this a legacy?\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"Your scarred soldier?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 93,
+    "promo_id": "EP29_0040.10_0114.30",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      29
+    ],
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:40.10",
+        "end_time": "01:14.30",
+        "duration_seconds": 34.2
+      }
+    ],
+    "total_duration_sec": 34.2,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"You know that is a lie!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"Your scarred soldier?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

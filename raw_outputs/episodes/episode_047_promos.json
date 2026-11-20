@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 3,
+    "promo_id": "EP47_0115.20_0201.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 1: Top-of-Funnel (Post First)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "THROW HER",
+    "episodes_involved": [
+      47
+    ],
+    "segments": [
+      {
+        "episode": 47,
+        "start_time": "01:15.20",
+        "end_time": "02:01.80",
+        "duration_seconds": 46.6
+      }
+    ],
+    "total_duration_sec": 46.6,
+    "hook_summary": "Alexander shouts a brutal command to throw Catherine beyond the estate, instantly jolting the viewer with raw aggression.",
+    "cliffhanger_summary": "Juliana begins a tense warning to Catherine, cutting just before we learn what fate awaits her.",
+    "why_it_works": "Violent power play and a mysterious rescue tease hook viewers instantly.",
+    "virality_score": 8.5,
+    "hook_score": 8.7,
+    "cliffhanger_score": 8.9,
+    "cold_comprehension_score": 8.0,
+    "evaluator_source": "llm_groq_openai/gpt-oss-120b"
+  },
+  {
+    "rank": 64,
+    "promo_id": "EP47_0100.50_0138.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "NO ESCAPE",
+    "episodes_involved": [
+      47
+    ],
+    "segments": [
+      {
+        "episode": 47,
+        "start_time": "01:00.50",
+        "end_time": "01:38.80",
+        "duration_seconds": 38.3
+      }
+    ],
+    "total_duration_sec": 38.3,
+    "hook_summary": "Catherine sobs, \u201cI have nowhere to go,\u201d while Alexander orders her thrown out, heightening a life\u2011or\u2011death power struggle.",
+    "cliffhanger_summary": "Juliana shouts \u201cStop.\u201d and the scene cuts before we see whether Catherine is saved or cast out.",
+    "why_it_works": "A desperate exile and a sudden command create a high\u2011stakes showdown that begs for the payoff.",
+    "virality_score": 8.0,
+    "hook_score": 7.5,
+    "cliffhanger_score": 9.0,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "llm_groq_openai/gpt-oss-120b"
+  },
+  {
+    "rank": 105,
+    "promo_id": "EP47_0131.50_0211.20",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      47
+    ],
+    "segments": [
+      {
+        "episode": 47,
+        "start_time": "01:31.50",
+        "end_time": "02:11.20",
+        "duration_seconds": 39.7
+      }
+    ],
+    "total_duration_sec": 39.7,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"If you seek shelter in this house, Catherine, you earn it.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"I accept, Your Grace.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 5.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  }
+]

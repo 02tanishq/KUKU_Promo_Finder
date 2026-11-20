@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 89,
+    "promo_id": "EP46_0037.30_0136.20",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      46
+    ],
+    "segments": [
+      {
+        "episode": 46,
+        "start_time": "00:37.30",
+        "end_time": "01:36.20",
+        "duration_seconds": 58.9
+      }
+    ],
+    "total_duration_sec": 58.9,
+    "hook_summary": "Opens on instant high emotion: HIGH PRIEST: \"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: HIGH PRIEST: \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's b",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 6.5,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 126,
+    "promo_id": "EP46_0015.00_0047.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      46
+    ],
+    "segments": [
+      {
+        "episode": 46,
+        "start_time": "00:15.00",
+        "end_time": "00:47.00",
+        "duration_seconds": 32.0
+      }
+    ],
+    "total_duration_sec": 32.0,
+    "hook_summary": "Opens on instant high emotion: SOUND FX: \"Crisp tear of wax and parchment string snapping open.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: HIGH PRIEST: \"No Crown license was sought, because no one thought to ask leave for a Duke to marry.\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.5,
+    "hook_score": 4.0,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 133,
+    "promo_id": "EP46_0058.50_0136.20",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      46
+    ],
+    "segments": [
+      {
+        "episode": 46,
+        "start_time": "00:58.50",
+        "end_time": "01:36.20",
+        "duration_seconds": 37.7
+      }
+    ],
+    "total_duration_sec": 37.7,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"I didn't ask this church for permission to survive, Father.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: HIGH PRIEST: \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's b",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.3,
+    "hook_score": 3.5,
+    "cliffhanger_score": 3.0,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  }
+]

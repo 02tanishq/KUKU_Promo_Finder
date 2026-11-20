@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 30,
+    "promo_id": "EP16_0006.40_0044.00",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      16
+    ],
+    "segments": [
+      {
+        "episode": 16,
+        "start_time": "00:06.40",
+        "end_time": "00:44.00",
+        "duration_seconds": 37.6
+      }
+    ],
+    "total_duration_sec": 37.6,
+    "hook_summary": "Opens on instant high emotion: THUG WITH CAP: \"I said, move!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER: \"Who sent you?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 31,
+    "promo_id": "EP16_0025.80_0115.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      16
+    ],
+    "segments": [
+      {
+        "episode": 16,
+        "start_time": "00:25.80",
+        "end_time": "01:15.80",
+        "duration_seconds": 50.0
+      }
+    ],
+    "total_duration_sec": 50.0,
+    "hook_summary": "Opens on instant high emotion: THIRD THUG: \"Stay back!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: JULIANA: \"Are you hurt?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 32,
+    "promo_id": "EP16_0038.20_0115.80",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second - Re-engagement)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      16
+    ],
+    "segments": [
+      {
+        "episode": 16,
+        "start_time": "00:38.20",
+        "end_time": "01:15.80",
+        "duration_seconds": 37.6
+      }
+    ],
+    "total_duration_sec": 37.6,
+    "hook_summary": "Opens on instant high emotion: Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: JULIANA: \"Are you hurt?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

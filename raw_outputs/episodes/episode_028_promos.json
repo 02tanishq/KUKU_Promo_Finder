@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 67,
+    "promo_id": "EP28_0015.30_0053.60",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      28
+    ],
+    "segments": [
+      {
+        "episode": 28,
+        "start_time": "00:15.30",
+        "end_time": "00:53.60",
+        "duration_seconds": 38.3
+      }
+    ],
+    "total_duration_sec": 38.3,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"I did not poison her! Look at her eyes, the fever has broken!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: BLOND NOBLEMAN: \"You see?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 7.3,
+    "hook_score": 6.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 91,
+    "promo_id": "EP28_0122.50_0205.70",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      28
+    ],
+    "segments": [
+      {
+        "episode": 28,
+        "start_time": "01:22.50",
+        "end_time": "02:05.70",
+        "duration_seconds": 43.2
+      }
+    ],
+    "total_duration_sec": 43.2,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"My mother's locket!\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"And this?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 110,
+    "promo_id": "EP28_0033.20_0115.10",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      28
+    ],
+    "segments": [
+      {
+        "episode": 28,
+        "start_time": "00:33.20",
+        "end_time": "01:15.10",
+        "duration_seconds": 41.9
+      }
+    ],
+    "total_duration_sec": 41.9,
+    "hook_summary": "Opens on instant high emotion: JULIANA: \"Your Grace...\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"Where did a gutter rat like you find a silver locket?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.6,
+    "hook_score": 4.0,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]

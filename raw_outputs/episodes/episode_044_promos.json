@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 102,
+    "promo_id": "EP44_0008.60_0046.40",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      44
+    ],
+    "segments": [
+      {
+        "episode": 44,
+        "start_time": "00:08.60",
+        "end_time": "00:46.40",
+        "duration_seconds": 37.8
+      }
+    ],
+    "total_duration_sec": 37.8,
+    "hook_summary": "Opens on instant high emotion: Close-up on Lord Sterling's trembling, indignant face.",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: CATHERINE: \"You don't remember?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 103,
+    "promo_id": "EP44_0021.80_0103.40",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Altar Betrayal & Public Humiliation",
+    "header_hook": "HER OWN SISTER?",
+    "episodes_involved": [
+      44
+    ],
+    "segments": [
+      {
+        "episode": 44,
+        "start_time": "00:21.80",
+        "end_time": "01:03.40",
+        "duration_seconds": 41.6
+      }
+    ],
+    "total_duration_sec": 41.6,
+    "hook_summary": "Opens on instant high emotion: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER: \"Did you?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 4.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  },
+  {
+    "rank": 137,
+    "promo_id": "EP44_0034.20_0103.40",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "The Impromptu Proposal / Heroic Claim",
+    "header_hook": "A STRANGER PROPOSED",
+    "episodes_involved": [
+      44
+    ],
+    "segments": [
+      {
+        "episode": 44,
+        "start_time": "00:34.20",
+        "end_time": "01:03.40",
+        "duration_seconds": 29.2
+      }
+    ],
+    "total_duration_sec": 29.2,
+    "hook_summary": "Opens on instant high emotion: CATHERINE: \"For three years, I believed the man I loved was buried somewhere across the sea.\"",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER: \"Did you?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.0,
+    "hook_score": 3.5,
+    "cliffhanger_score": 3.5,
+    "cold_comprehension_score": 7.8,
+    "evaluator_source": "heuristic_engine"
+  }
+]

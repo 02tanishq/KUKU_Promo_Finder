@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 19,
+    "promo_id": "EP35_0129.80_0205.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 2: Mid-Funnel (Post Second)",
+    "archetype": "Underdog Defiance / High-Stakes Clash",
+    "header_hook": "TRAITOR REVEALED",
+    "episodes_involved": [
+      35
+    ],
+    "segments": [
+      {
+        "episode": 35,
+        "start_time": "01:29.80",
+        "end_time": "02:05.50",
+        "duration_seconds": 35.7
+      }
+    ],
+    "total_duration_sec": 35.7,
+    "hook_summary": "Alexander\u2019s mother gasps \u201cA traitor?\u201d and he coldly confirms, instantly raising stakes of betrayal and survival.",
+    "cliffhanger_summary": "He describes crawling away half\u2011dead while the scene cuts before revealing how he escaped the ambush.",
+    "why_it_works": "A wounded hero\u2019s brutal confession fuels intrigue and empathy in seconds.",
+    "virality_score": 8.2,
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "cold_comprehension_score": 8.5,
+    "evaluator_source": "llm_groq_openai/gpt-oss-120b"
+  },
+  {
+    "rank": 65,
+    "promo_id": "EP35_0111.50_0205.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third)",
+    "archetype": "Underdog Defiance / High-Stakes Clash",
+    "header_hook": "I WASN'T",
+    "episodes_involved": [
+      35
+    ],
+    "segments": [
+      {
+        "episode": 35,
+        "start_time": "01:11.50",
+        "end_time": "02:05.50",
+        "duration_seconds": 54.0
+      }
+    ],
+    "total_duration_sec": 54.0,
+    "hook_summary": "A mother\u2019s desperate question and Alexander\u2019s grim reply hint at a forbidden past.",
+    "cliffhanger_summary": "Mother\u2019s shocked gasp cuts off just before the revelation of his secret mission.",
+    "why_it_works": "Mystery about a hidden war mission teases a deeper plot that forces a paywall click.",
+    "virality_score": 7.8,
+    "hook_score": 8.0,
+    "cliffhanger_score": 8.2,
+    "cold_comprehension_score": 7.5,
+    "evaluator_source": "llm_groq_openai/gpt-oss-120b"
+  },
+  {
+    "rank": 87,
+    "promo_id": "EP35_0144.20_0205.50",
+    "promo_type": "single_segment",
+    "funnel_stage": "Stage 3: Paywall Teaser (Post Third - Payoff)",
+    "archetype": "Underdog Defiance / High-Stakes Clash",
+    "header_hook": "NO MORE HIDING",
+    "episodes_involved": [
+      35
+    ],
+    "segments": [
+      {
+        "episode": 35,
+        "start_time": "01:44.20",
+        "end_time": "02:05.50",
+        "duration_seconds": 21.3
+      }
+    ],
+    "total_duration_sec": 21.3,
+    "hook_summary": "Opens on instant high emotion: Close-up of his mother clutching at her throat, tears glistening in her eyes.",
+    "cliffhanger_summary": "Snaps at peak unresolved tension: ALEXANDER'S MOTHER: \"Then why did they never tell us?\"",
+    "why_it_works": "Monotonically escalating conflict with rapid dialogue pacing that prevents scrolling drop-off.",
+    "virality_score": 6.8,
+    "hook_score": 3.0,
+    "cliffhanger_score": 6.5,
+    "cold_comprehension_score": 7.0,
+    "evaluator_source": "heuristic_engine"
+  }
+]
