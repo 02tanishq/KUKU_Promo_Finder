@@ -215,4 +215,3 @@ As required by Kuku's assignment rubric, the system explicitly documents 4 real-
 - **Email**: `Tanishqg503@gmail.com`
 - **Phone**: `+91-7878675557`
 - **Solution Document (PDF)**: [Kuku_AI_Generalist_Solution_Doc.pdf](Kuku_AI_Generalist_Solution_Doc.pdf) *(Verified 2-Page Print Layout)*
-- **Loom Walkthrough Script**: [walkthrough_script.md](walkthrough_script.md)
