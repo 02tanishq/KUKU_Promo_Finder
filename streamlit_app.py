@@ -113,14 +113,14 @@ with f_row1_col1:
 with f_row1_col2:
     top_n_filter = st.selectbox(
         "Show Top N Promos",
-        ["Top 5 (Priority Ad Units)", "Top 3", "Top 10", "Top 25", "Top 50", "All Ranked Promos"],
+        ["All Ranked Promos", "Top 5 (Priority Ad Units)", "Top 3", "Top 10", "Top 25", "Top 50"],
         index=0
     )
 
 with f_row1_col3:
     search_query = st.text_input("🔍 Search Dialogue, Keywords, or Promo ID", placeholder="e.g. altar, poison, Juliana, EP01...")
 
-f_row2_col1, f_row2_col2, f_row2_col3 = st.columns(3)
+f_row2_col1, f_row2_col2, f_row2_col3, f_row2_col4 = st.columns(4)
 with f_row2_col1:
     stage_filter = st.selectbox(
         "Funnel Stage",
@@ -134,10 +134,17 @@ with f_row2_col2:
     )
 
 with f_row2_col3:
-    dur_range = st.select_slider(
+    dur_range = st.selectbox(
         "Duration Window",
-        options=["All Durations", "< 35s (Snappy)", "35s - 48s (Sweetspot)", "48s - 60s (Narrative)"],
-        value="All Durations"
+        ["All Durations (20–60s)", "< 35s (Snappy)", "35s - 48s (Sweetspot)", "48s - 60s (Narrative)"],
+        index=0
+    )
+
+with f_row2_col4:
+    sort_order = st.selectbox(
+        "Sort Order",
+        ["Campaign Release Order (Post First)", "Pure Virality Score (Highest ★ First)"],
+        index=0
     )
 
 # Filter Logic
@@ -174,6 +181,12 @@ for p in promos:
             continue
 
     filtered.append(p)
+
+# Apply Sort Order
+if "Pure Virality" in sort_order:
+    filtered.sort(key=lambda x: x["virality_score"], reverse=True)
+else:
+    filtered.sort(key=lambda x: x["rank"])
 
 # Apply Top N slicing
 if "Top 3" in top_n_filter:
